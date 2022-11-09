@@ -2,6 +2,11 @@
 
 App Super Gestão utilizando linguagem de programação PHP com o framework mais utilizado, Laravel, finalizado e retirado do curso Desenvolvimento Web Avançado 2022 com PHP, Laravel e Vue.JS na Udemy, de Jorge Sant Ana.
 
+- PHP;
+- LARAVEL;
+- MYSQL;
+- BOOTSTRAP
+
 Tela de login
 
 ![1](https://user-images.githubusercontent.com/114930799/200894433-4637a710-aa6d-419f-ab70-5e40e7fee217.PNG)
